@@ -62,6 +62,15 @@ The front page sorts bounties into Trending, New, and Ending soon, across catego
 
 Read the rules first. Some bounties need extra software or an account somewhere, and the page says so up front. Pick one you can actually build well — a focused entry beats a stretched one.
 
+### How to pick your first bounty
+
+If you are choosing between several, weigh these four things:
+
+- **Free to enter.** Start with a bounty that costs nothing. A fee only makes sense once you know the loop.
+- **A local grade.** Bounties whose kit grades on your machine let you see your standing before the server does. That feedback loop is the fastest way to learn.
+- **Enough time.** A deadline at least two days out gives you room to build, check, fix, and resubmit. An entry submitted in the last hour is usually a rushed one.
+- **Something you can finish.** A small, complete entry that meets every rule beats an ambitious one that never gets submitted. The checks only pass complete work.
+
 ### 3. Get the kit
 
 Every bounty ships a kit: its rules, its data, a starter entry where one exists, and the `makefun` command line. From the bounty page's entry form, or in a terminal:
